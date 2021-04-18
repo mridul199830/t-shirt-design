@@ -1,0 +1,10 @@
+.tshirt-color{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ flex-wrap: wrap;
+}
+.tshirt-color img{
+ width: 15%;
+ height: 15%;
+}

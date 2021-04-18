@@ -1,0 +1,20 @@
+.imgTshirt{
+ position: relative;
+}
+.memeText {
+ position: absolute;
+ top: 190px;
+ left: 210px;
+}
+.memeText img{
+    max-width: 300px;
+    border: white 6px solid;
+}
+.memeText p{
+ color: white;
+ 
+}
+
+.lower-Text{
+ margin-top: 10px;
+}
